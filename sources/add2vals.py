@@ -6,6 +6,14 @@ the calc.py library's 'add2' function.
 import sys
 import calc
 
+print("------------------------------------------------------------")
+print("DBS Foundation Coding Camp 2023 with Dicoding")
+print("Belajar Implementasi CI/CD")
+print("Inside add2vals.py file")
+print("submission-cicd-pipeline-rabadi-python")
+print("by Ronald Mulyono Abadi")
+print("------------------------------------------------------------")
+
 argnumbers = len(sys.argv) - 1
 
 if argnumbers == 2 :
