@@ -1,6 +1,14 @@
 import unittest
 import calc
 
+# ------------------------------------------------------------
+# DBS Foundation Coding Camp 2023 with Dicoding
+# Belajar Implementasi CI/CD
+# Inside test_calc.py file
+# submission-cicd-pipeline-rabadi-python
+# by Ronald Mulyono Abadi
+# ------------------------------------------------------------
+
 class TestCalc(unittest.TestCase):
     """
     Test the add function from the calc library
